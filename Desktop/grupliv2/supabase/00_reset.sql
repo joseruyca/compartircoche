@@ -1,0 +1,1 @@
+-- Incluido en all_in_one.sql. Ejecuta supabase/all_in_one.sql para reset completo.

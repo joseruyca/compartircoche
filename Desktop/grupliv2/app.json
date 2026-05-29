@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Grupli",
+    "slug": "grupli",
+    "scheme": "grupli",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#FBF8F1"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joserubio.grupli"
+    },
+    "android": {
+      "package": "com.joserubio.grupli",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FBF8F1"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
